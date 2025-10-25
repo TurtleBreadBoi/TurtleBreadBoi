@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TurtleBreadBoi
 - 👀 I’m interested in Python/C++ Coding 
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Java
 - 📫 How to reach me - u can just dm me in discord, im active there. (turtlebreadboi)
 - 😄 Pronouns: he/him
 
